@@ -14,5 +14,5 @@ Then run pr_audiodigit_ray to
 1) load images
 2) perform photorefractive two beam coupling with specifed beam angles and waists, coupling constants and noise levels. Optionally apply images to one or both beams
 
-Output includes cross longitidinal cross sections and animations.  The output is back propagated by phase conjugation to allow direct comparison of input and output images
+Output includes longitidinal cross sections and animations.  The output is back propagated by phase conjugation to allow direct comparison of input and output images
 The accuracy of the code can be checked against the analytic propagation of gaussian beams 
