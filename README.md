@@ -1,7 +1,7 @@
 # Nonlinear Beam Propagation
 non paraxial and paraxial beam propagation using FFT or FDBPM
 
-Nonlinear split step optical beam propagation using photorefractive nonlinearities. Othe nonlinearites could be subbed in. The current example is for photorefractive barium titanate. The code can process the mnist or audio mnist libraries to enable testing with optical deep learning image classification methods such as SOLO. (U. Tegin, M. Yildirim, I. Oguz et al., “Scalable optical learning operator,” Nature Computational Science, 1(8), 542-549 (2021)).
+Nonlinear split step optical beam propagation using photorefractive nonlinearities. Other nonlinearites could be subbed in. The current example is for photorefractive barium titanate. The code can process the mnist or audio mnist libraries to enable testing with optical deep learning image classification methods such as SOLO. (U. Tegin, M. Yildirim, I. Oguz et al., “Scalable optical learning operator,” Nature Computational Science, 1(8), 542-549 (2021)).
 This project is inpired by older research in photorefractive beam propagation: M. Cronin-Golomb, “Whole beam method for photorefractive nonlinear optics,” Optics Communications, 89(2-4), 276-282 (1992).
 
 There are three files: 
