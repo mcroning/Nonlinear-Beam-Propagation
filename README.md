@@ -6,7 +6,7 @@ This project is inpired by older research in photorefractive beam propagation: M
 
 There are three files: 
 1) load_prdata.ipynb  :creates dictionary of variables and large common arrays for parallel multicore processing
-2) pr_audiodigit_ray_v2.ipynb : notebook to load dictionary, input images (mnist ot mnist audio) and perform beam propagation using ray for parallelization, tested on Apple M1 Pro silicon 
+2) pr_audiodigit_ray.ipynb : notebook to load dictionary, input images (mnist ot mnist audio) and perform beam propagation using ray for parallelization, tested on Apple M1 Pro silicon 
 3) variables.pdf : description of dictionary variables
 
 Run load_prdata first to set up the problem
